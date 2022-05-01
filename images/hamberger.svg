@@ -1,0 +1,36 @@
+<div class="container">
+        <nav id="main-nav" class="flex items-center justify-between">
+          <div class="left flex items-center">
+            <div class="text_logo">
+              <p><b>AHMED</b></p>
+            </div>
+            <div>
+              <a href="#about">About</a>
+              <a href="#services">Services</a>
+              <a href="#Testimonial">Testimonial</a>
+              <a href="#work">Work</a>
+              <a href="#blog">Blog</a>
+            </div>
+          </div>
+          <div class="right">
+            <button class="btn btn-primary" id="btn-1">Contact</button>
+          </div>
+        </nav>
+
+
+
+
+
+        <button class="hamburger">
+        <svg class="svg" xmlns="http://www.w3.org/2000/svg" width="20" height="14" viewBox="0 0 20 14">
+          <g id="Group_2269" data-name="Group 2269" transform="translate(-710 -3153)">
+            <path id="Path_1424" data-name="Path 1424" d="M526,1810H512" transform="translate(199 1348)" fill="none"
+              stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path id="Path_1425" data-name="Path 1425" d="M530,1806H512" transform="translate(199 1348)" fill="none"
+              stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path id="Path_1426" data-name="Path 1426" d="M530,1814H512" transform="translate(199 1348)" fill="none"
+              stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path id="Path_1427" data-name="Path 1427" d="M526,1818H512" transform="translate(199 1348)" fill="none"
+              stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+          </g>
+        </svg>
